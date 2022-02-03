@@ -12,3 +12,8 @@ https://techcommunity.microsoft.com/t5/windows-dev-appconsult/ui-testing-for-win
 
 https://www.eziriz.com/dotnet_reactor.htm
 
+https://www.sourcetreeapp.com/  
+
+
+https://docs.microsoft.com/en-us/azure/devops/migrate/faqs?view=azure-devops
+
